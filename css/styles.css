@@ -1,0 +1,63 @@
+.body {
+  font-family: "Roboto", sans-serif;
+  background-size: 100%;
+  background-color: rgb(220, 210, 210);
+  padding: 0 15px;
+}
+
+.section {
+  text-align: left;
+  max-width: 700px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.h-one {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  width: 400px;
+  margin-left: auto;
+}
+
+.div-one {
+    width: 250px;
+}
+
+.div-two {
+  max-width: 430px;
+  width: 100%;
+}
+
+.img-one {
+  width: 250px;
+  height: 160px;
+  margin: 0;
+}
+
+.img-two {
+  width: 250px;
+  height: 200px;
+  margin: 0;
+}
+
+.p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.main-div {
+  display: flex;
+  gap: 20px;
+}
+
+.iframe {
+    border: 0;
+}
+
+.footer {
+  text-align: right;
+  width: 220px;
+  margin-left: auto;
+  margin-top: auto;
+  margin-right: 5px;
+}
